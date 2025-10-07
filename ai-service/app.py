@@ -62,6 +62,4 @@ demo = gr.Interface(
     examples=[["Bu çok güzel bir gün!"],["Hiç beğenmedim bu filmi"],["Bugün hava normal"],["Mükemmel bir deneyimdi"],["Çok kötü bir hizmet aldık"]],
     api_name="/analyze"
 )
-
-# <<< KRİTİK: MOUNT EDİYORUZ, launch() YOK >>>
 app = gr.mount_gradio_app(api, demo, path="/")
