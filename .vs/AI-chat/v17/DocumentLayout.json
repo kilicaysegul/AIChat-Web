@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|c:\\users\\kilic\\onedrive\\masa\u00FCst\u00FC\\ai-chat\\backend\\aichat.api\\services\\sentimentclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|solutionrelative:backend\\aichat.api\\services\\sentimentclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|c:\\users\\kilic\\onedrive\\masa\u00FCst\u00FC\\ai-chat\\backend\\aichat.api\\models\\sentimentoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|solutionrelative:backend\\aichat.api\\models\\sentimentoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|c:\\users\\kilic\\onedrive\\masa\u00FCst\u00FC\\ai-chat\\backend\\aichat.api\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|solutionrelative:backend\\aichat.api\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|c:\\users\\kilic\\onedrive\\masa\u00FCst\u00FC\\ai-chat\\backend\\aichat.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|solutionrelative:backend\\aichat.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|c:\\users\\kilic\\onedrive\\masa\u00FCst\u00FC\\ai-chat\\backend\\aichat.api\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|solutionrelative:backend\\aichat.api\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|c:\\users\\kilic\\onedrive\\masa\u00FCst\u00FC\\ai-chat\\backend\\aichat.api\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|solutionrelative:backend\\aichat.api\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|c:\\users\\kilic\\onedrive\\masa\u00FCst\u00FC\\ai-chat\\backend\\aichat.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|solutionrelative:backend\\aichat.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|c:\\users\\kilic\\onedrive\\masa\u00FCst\u00FC\\ai-chat\\backend\\aichat.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|solutionrelative:backend\\aichat.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|c:\\users\\kilic\\onedrive\\masa\u00FCst\u00FC\\ai-chat\\backend\\aichat.api\\app.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|solutionrelative:backend\\aichat.api\\app.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|c:\\users\\kilic\\onedrive\\masa\u00FCst\u00FC\\ai-chat\\backend\\aichat.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}|backend\\AIChat.API\\AIChat.API.csproj|solutionrelative:backend\\aichat.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SentimentOptions.cs",
+              "DocumentMoniker": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\Models\\SentimentOptions.cs",
+              "RelativeDocumentMoniker": "backend\\AIChat.API\\Models\\SentimentOptions.cs",
+              "ToolTip": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\Models\\SentimentOptions.cs",
+              "RelativeToolTip": "backend\\AIChat.API\\Models\\SentimentOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T13:02:56.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "backend\\AIChat.API\\Services\\MessageService.cs",
+              "ToolTip": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\Services\\MessageService.cs",
+              "RelativeToolTip": "backend\\AIChat.API\\Services\\MessageService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T12:55:39.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "backend\\AIChat.API\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "backend\\AIChat.API\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T12:55:21.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SentimentClient.cs",
+              "DocumentMoniker": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\Services\\SentimentClient.cs",
+              "RelativeDocumentMoniker": "backend\\AIChat.API\\Services\\SentimentClient.cs",
+              "ToolTip": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\Services\\SentimentClient.cs",
+              "RelativeToolTip": "backend\\AIChat.API\\Services\\SentimentClient.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvywAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T12:53:25.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "backend\\AIChat.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\appsettings.Development.json",
+              "RelativeToolTip": "backend\\AIChat.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAEwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T12:47:12.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\AIChat.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\appsettings.json",
+              "RelativeToolTip": "backend\\AIChat.API\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T11:50:44.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\Dtos\\MessageDto.cs",
+              "RelativeDocumentMoniker": "backend\\AIChat.API\\Dtos\\MessageDto.cs",
+              "ToolTip": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\Dtos\\MessageDto.cs",
+              "RelativeToolTip": "backend\\AIChat.API\\Dtos\\MessageDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T12:27:45.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.db",
+              "DocumentMoniker": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\app.db",
+              "RelativeDocumentMoniker": "backend\\AIChat.API\\app.db",
+              "ToolTip": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\app.db",
+              "RelativeToolTip": "backend\\AIChat.API\\app.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAICSURBVDhPrZXNa9JhAIAfx6iZBM7EpWBTpzMdW6tZsA5F0K1T3QZBHwuCgsFYTiaYRFGE7NAH0aAoYtCl/8EOoRteNkhL13TiRqMlBFux\u002BfupXRL09Wfp6Dm9H8/7wHt5XxV/mPJ5M1C2VOaNUa3IJc6HQqEFcYdyuayqjKd8t8p37t6vFRQIBvyo1eofmz\u002B3zyhF28SFZrh8ZVS7X9MR9nq9g\u002BLeroIHjaaG0V0F\u002BUu0vVarZXV9g\u002BRyDrfDgtGgA0Cr1RIM\u002BKs1bXsbYaCTRsFf2zssflqmsFNgc2uLxFKadDaHw2ZmfGJS1AkG/NrKWPHK8VSGbxt5SqUingEXxaJMdvUrubV1Ua1DMTjosiPLMnaLGeshE05bN7Is0e9yiGodisF4Ko0kFYgnv7CUzrKYSCFJEu8jMVGtQzFo7NJjNOiRJInwh3mKsoxB38nw0BFRrUMx2KXXcXp4iAGXg469e3A7bZw9dZJMLsdNX4CFj3G\u002B5/PiMWgUrNBtNjFy4RzOHitPXrzm\u002BatZ\u002BnrtPHo2w8zLN6IO/wpW43b00Ndr58boJfpdh\u002Bl12EQFWgkmPieZj8WYfvyUSHSOSDQqKtBK8OrFEcauXyManWNyfIx7wduiAq0E9Qd0eI4d5d3bWU4c96DR7BMVaCXYLP89WPViT2RA1cQXoER55cHDaSvAb9pFqY18f9aRAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-10-08T11:52:29.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "backend\\AIChat.API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "backend\\AIChat.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:51:45.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\AIChat.API\\Program.cs",
+              "ToolTip": "C:\\Users\\kilic\\OneDrive\\Masa\u00FCst\u00FC\\AI-chat\\backend\\AIChat.API\\Program.cs",
+              "RelativeToolTip": "backend\\AIChat.API\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:48:29.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
-MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backend", "backend", "{747D733A-3AD2-4C1A-A687-F1D6D985BCF5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "frontend", "frontend", "{DBB98F57-6885-4DBA-A751-097A2D7726A5}"
@@ -20,21 +17,15 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0441F599-2E0A-4E5B-AECD-52AD3142DC92} = {DBB98F57-6885-4DBA-A751-097A2D7726A5}
 		{283A1C65-2CA1-449F-9C44-9A6D8E4A96D5} = {DBB98F57-6885-4DBA-A751-097A2D7726A5}
 		{5EF05CDE-157F-4CA7-9E21-5494B3FC474B} = {747D733A-3AD2-4C1A-A687-F1D6D985BCF5}
 	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5BAC12E7-45EC-496B-8263-64CD0B5D08C1}
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF05CDE-157F-4CA7-9E21-5494B3FC474B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
