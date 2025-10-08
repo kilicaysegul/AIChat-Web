@@ -1,15 +1,17 @@
-# ---- build stage ----
+# .NET derleme aşaması
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-WORKDIR /src
-COPY . .
-RUN dotnet restore
-RUN dotnet publish -c Release -o /app/out
+WORKDIR /app
 
-# ---- runtime stage ----
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
+COPY . ./
+RUN dotnet restore
+RUN dotnet publish -c Release -o out
+
+# Çalışma aşaması
+FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
 COPY --from=build /app/out .
 
-# Render sana PORT env var'ını veriyor. Kestrel'i ona bağla.
-# Shell ile çalıştırıp $PORT'u runtime'da dolduruyoruz.
-CMD ["sh", "-c", "ASPNETCORE_URLS=http://0.0.0.0:$PORT dotnet AIChat.API.dll"]
+ENV ASPNETCORE_URLS=http://0.0.0.0:10000
+EXPOSE 10000
+
+ENTRYPOINT ["dotnet", "AIChat.API.dll"]

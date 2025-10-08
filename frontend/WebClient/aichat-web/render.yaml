@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: ai-web-chat-api
+    env: docker
+    region: oregon
+    plan: free
+    autoDeploy: true
+    dockerfilePath: backend/AIChat.API/Dockerfile
+    buildContext: backend/AIChat.API
