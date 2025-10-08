@@ -32,7 +32,7 @@ builder.Services.AddIdentityCore<AppUser>(options =>
     options.Password.RequiredLength = 8;
 })
 .AddEntityFrameworkStores<ApplicationDbContext>()
-.AddSignInManager()               
+.AddSignInManager()
 .AddDefaultTokenProviders();
 
 builder.Services.AddHttpContextAccessor();
@@ -67,19 +67,24 @@ builder.Services.AddAuthorization();
 
 builder.Services.AddControllers();
 
+
+// ✅ GÜNCELLENEN CORS AYARI (Render için)
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", policy =>
     {
         policy
             .WithOrigins(
-                "http://localhost:5173", // React
-                "http://localhost:3000" // React Native
+                "http://localhost:5173",          // Yerel geliştirme
+                "http://localhost:3000",          // Alternatif yerel port
+                "https://ai-chat-web.onrender.com" // <-- FRONTEND'in canlı adresi
             )
             .AllowAnyHeader()
-            .AllowAnyMethod();
+            .AllowAnyMethod()
+            .AllowCredentials();
     });
 });
+
 
 var app = builder.Build();
 
@@ -91,11 +96,13 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseCors("AllowFrontend"); 
+// ✅ CORS aktif hale getiriliyor
+app.UseCors("AllowFrontend");
 
-app.UseAuthentication();       
-app.UseAuthorization();       
+app.UseAuthentication();
+app.UseAuthorization();
+
 app.MapHub<ChatHub>("/chatHub");
-app.MapControllers();        
+app.MapControllers();
 
 app.Run();
